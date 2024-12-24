@@ -28,10 +28,12 @@ const router = createBrowserRouter([
         loader : () => fetch('https://jsonplaceholder.typicode.com/posts')
       },
       {
-        path: "/data",
+        path: "/loader/:id",
         element: <DymaicData></DymaicData>   ,
-        
+        loader : ({params}) => fetch(`https://jsonplaceholder.typicode.com/posts/${params.id}`)
+
       },
+     
     ],
   },
 ]);

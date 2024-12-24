@@ -9,7 +9,7 @@ const Nav = () => {
     
      <li><NavLink to='/' >Home</NavLink></li>
      <li><NavLink to='/loader' >UseLoaderData</NavLink></li>
-     <li><NavLink to='/data' >DynamicData</NavLink></li>
+   
     
     
     
