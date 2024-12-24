@@ -11,6 +11,7 @@ import Home from './Home';
 import './vanila css/Vanila.css'
 import Loader from './Loader';
 import DymaicData from './DymaicData';
+import Form from './form file/Form';
 
 
 const router = createBrowserRouter([
@@ -32,6 +33,10 @@ const router = createBrowserRouter([
         element: <DymaicData></DymaicData>   ,
         loader : ({params}) => fetch(`https://jsonplaceholder.typicode.com/posts/${params.id}`)
 
+      },
+      {
+        path: "/form",
+        element: <Form></Form>  ,
       },
      
     ],
