@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "name": "Fresh Bites",
+      "address": "123 Maple Street, New York, NY",
+      "company": "Fresh Bites Inc.",
+      "location": "New York, NY",
+      "products": ["Organic Fruits", "Vegetables", "Salads"],
+      "country": "USA",
+      "owner_name": "Sarah Green",
+      "paragraph": "Fresh Bites specializes in delivering organic and fresh produce sourced directly from local farms. Our goal is to provide healthy options for every home."
+    },
+    {
+      "id": 2,
+      "name": "Baker's Delight",
+      "address": "456 Oak Avenue, San Francisco, CA",
+      "company": "Baker's Delight Co.",
+      "location": "San Francisco, CA",
+      "products": ["Breads", "Pastries", "Cakes"],
+      "country": "USA",
+      "owner_name": "John Baker",
+      "paragraph": "Baker's Delight is a family-run bakery that has been serving artisan bread and delightful pastries for over two decades."
+    },
+    {
+      "id": 3,
+      "name": "Spice World",
+      "address": "789 Cedar Lane, Austin, TX",
+      "company": "Spice World Ltd.",
+      "location": "Austin, TX",
+      "products": ["Spices", "Herbs", "Seasonings"],
+      "country": "USA",
+      "owner_name": "Meera Kapoor",
+      "paragraph": "Spice World offers a rich variety of spices and herbs to elevate your culinary creations with authentic flavors from around the globe."
+    },
+    {
+      "id": 4,
+      "name": "Savory Sweets",
+      "address": "321 Pine Drive, Miami, FL",
+      "company": "Savory Sweets LLC",
+      "location": "Miami, FL",
+      "products": ["Chocolates", "Candies", "Desserts"],
+      "country": "USA",
+      "owner_name": "Luis Fernandez",
+      "paragraph": "Savory Sweets creates handmade chocolates and desserts that bring joy to any occasion with their rich and creamy flavors."
+    },
+    {
+      "id": 5,
+      "name": "Green Gourmet",
+      "address": "654 Willow Road, Portland, OR",
+      "company": "Green Gourmet Co.",
+      "location": "Portland, OR",
+      "products": ["Vegan Meals", "Plant-Based Snacks", "Juices"],
+      "country": "USA",
+      "owner_name": "Emily Waters",
+      "paragraph": "Green Gourmet is committed to offering plant-based and sustainable food options that promote health and environmental well-being."
+    },
+    {
+      "id": 6,
+      "name": "Daily Dairy",
+      "address": "876 Birch Boulevard, Chicago, IL",
+      "company": "Daily Dairy Products",
+      "location": "Chicago, IL",
+      "products": ["Milk", "Cheese", "Yogurt"],
+      "country": "USA",
+      "owner_name": "Michael Brown",
+      "paragraph": "Daily Dairy ensures the highest quality dairy products, sourced fresh from local farms to your table."
+    },
+    {
+      "id": 7,
+      "name": "Tropical Treats",
+      "address": "543 Palm Street, Honolulu, HI",
+      "company": "Tropical Treats Co.",
+      "location": "Honolulu, HI",
+      "products": ["Exotic Fruits", "Smoothies", "Ice Cream"],
+      "country": "USA",
+      "owner_name": "Leilani Kai",
+      "paragraph": "Tropical Treats brings the taste of the islands to you with fresh, exotic fruits and delectable desserts."
+    },
+    {
+      "id": 8,
+      "name": "Seafood Market",
+      "address": "987 Ocean Avenue, Seattle, WA",
+      "company": "Seafood Market Inc.",
+      "location": "Seattle, WA",
+      "products": ["Fresh Fish", "Shellfish", "Seafood Platters"],
+      "country": "USA",
+      "owner_name": "Tom Fisher",
+      "paragraph": "Seafood Market offers premium quality seafood, sustainably sourced and delivered fresh to your door."
+    },
+    {
+      "id": 9,
+      "name": "Grill Masters",
+      "address": "111 BBQ Lane, Dallas, TX",
+      "company": "Grill Masters LLC",
+      "location": "Dallas, TX",
+      "products": ["BBQ Sauces", "Marinated Meats", "Grills"],
+      "country": "USA",
+      "owner_name": "Jason Cook",
+      "paragraph": "Grill Masters provides everything you need for the ultimate barbecue experience, from sauces to grills."
+    },
+    {
+      "id": 10,
+      "name": "Healthy Harvest",
+      "address": "222 Orchard Drive, Denver, CO",
+      "company": "Healthy Harvest Co.",
+      "location": "Denver, CO",
+      "products": ["Organic Grains", "Nuts", "Dried Fruits"],
+      "country": "USA",
+      "owner_name": "Anna White",
+      "paragraph": "Healthy Harvest focuses on delivering wholesome and organic products to support a nutritious lifestyle."
+    },
+    {
+      "id": 11,
+      "name": "Gourmet Pantry",
+      "address": "333 Gourmet Blvd, Boston, MA",
+      "company": "Gourmet Pantry Inc.",
+      "location": "Boston, MA",
+      "products": ["Specialty Sauces", "Imported Oils", "Condiments"],
+      "country": "USA",
+      "owner_name": "Sophia Cruz",
+      "paragraph": "Gourmet Pantry brings the world's finest flavors to your kitchen with a curated selection of specialty foods."
+    },
+    {
+      "id": 12,
+      "name": "Sweet Sprinkles",
+      "address": "444 Dessert Way, Las Vegas, NV",
+      "company": "Sweet Sprinkles LLC",
+      "location": "Las Vegas, NV",
+      "products": ["Cupcakes", "Cookies", "Custom Cakes"],
+      "country": "USA",
+      "owner_name": "Chloe Baker",
+      "paragraph": "Sweet Sprinkles makes celebrations sweeter with custom cakes and deliciously baked treats."
+    },
+    {
+      "id": 13,
+      "name": "Harvest Haven",
+      "address": "555 Farm Road, Sacramento, CA",
+      "company": "Harvest Haven Co.",
+      "location": "Sacramento, CA",
+      "products": ["Fresh Produce", "Canned Goods", "Preserves"],
+      "country": "USA",
+      "owner_name": "David Fields",
+      "paragraph": "Harvest Haven delivers fresh produce and preserves that capture the taste of the countryside."
+    },
+    {
+      "id": 14,
+      "name": "Cheese Corner",
+      "address": "666 Dairy Lane, Madison, WI",
+      "company": "Cheese Corner Ltd.",
+      "location": "Madison, WI",
+      "products": ["Artisan Cheese", "Butter", "Cream"],
+      "country": "USA",
+      "owner_name": "Rebecca Thomas",
+      "paragraph": "Cheese Corner offers a selection of handcrafted cheeses and dairy products that are rich in tradition and taste."
+    },
+    {
+      "id": 15,
+      "name": "Farm to Fork",
+      "address": "777 Rural Route, Kansas City, MO",
+      "company": "Farm to Fork LLC",
+      "location": "Kansas City, MO",
+      "products": ["Farm-Fresh Vegetables", "Free-Range Eggs", "Meat"],
+      "country": "USA",
+      "owner_name": "Mark Johnson",
+      "paragraph": "Farm to Fork connects consumers with fresh, high-quality products straight from the farm."
+    },
+    {
+      "id": 16,
+      "name": "Pasta Perfection",
+      "address": "888 Italian Lane, New Orleans, LA",
+      "company": "Pasta Perfection Inc.",
+      "location": "New Orleans, LA",
+      "products": ["Handmade Pasta", "Sauces", "Italian Seasonings"],
+      "country": "USA",
+      "owner_name": "Giovanni Russo",
+      "paragraph": "Pasta Perfection brings authentic Italian flavors to your table with handmade pasta and sauces."
+    },
+    {
+      "id": 17,
+      "name": "Berry Bliss",
+      "address": "999 Berry Street, Boise, ID",
+      "company": "Berry Bliss Co.",
+      "location": "Boise, ID",
+      "products": ["Fresh Berries", "Jams", "Smoothies"],
+      "country": "USA",
+      "owner_name": "Lila Berry",
+      "paragraph": "Berry Bliss is your go-to source for fresh, juicy berries and delicious berry-based products."
+    },
+    {
+      "id": 18,
+      "name": "The Honey Hive",
+      "address": "123 Honeycomb Lane, Savannah, GA",
+      "company": "The Honey Hive Inc.",
+      "location": "Savannah, GA",
+      "products": ["Raw Honey", "Honeycomb", "Beeswax"],
+      "country": "USA",
+      "owner_name": "Samuel Bee",
+      "paragraph": "The Honey Hive provides pure, raw honey and beeswax products sourced from sustainable apiaries."
+    },
+    {
+      "id": 19,
+      "name": "Coffee Craze",
+      "address": "456 Espresso Blvd, Seattle, WA",
+      "company": "Coffee Craze Co.",
+      "location": "Seattle, WA",
+      "products": ["Coffee Beans", "Cold Brew", "Espresso Machines"],
+      "country": "USA",
+      "owner_name": "Tina Barista",
+      "paragraph": "Coffee Craze is dedicated to delivering premium coffee beans and equipment for the perfect cup every time."
+    },
+    {
+      "id": 20,
+      "name": "The Snack Shack",
+      "address": "789 Crunchy Lane, Los Angeles, CA",
+      "company": "The Snack Shack LLC",
+      "location": "Los Angeles, CA",
+      "products": ["Chips", "Popcorn", "Healthy Snacks"],
+      "country": "USA",
+      "owner_name": "Nathan Crisp",
+      "paragraph": "The Snack Shack offers a wide range of delicious and healthy snacks for every craving."
+    }
+  ]
+  

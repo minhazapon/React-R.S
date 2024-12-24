@@ -1,0 +1,44 @@
+
+.nav-name{
+
+   display: flex;
+   align-items: center;
+   gap: 10px;
+
+}
+.loader-div{
+
+   margin-left: 50px;
+   margin-top: 50px;
+   margin-right: 50px;
+   margin-bottom: 50px;
+
+}
+.title-text{
+
+   font-size: 15px;
+   font-style: initial;
+   font-weight: 300;
+
+}
+.body-text{
+
+   font-size: 20px;
+   margin-top: 20px;
+
+
+}
+.details-div{
+
+   background-color: black;
+   color: white;
+   height: 300px;
+   padding: 20px;
+
+}
+.flex-div{
+
+   display: flex;
+   justify-content: center;
+
+}
