@@ -12,6 +12,8 @@ import './vanila css/Vanila.css'
 import Loader from './Loader';
 import DymaicData from './DymaicData';
 import Form from './form file/Form';
+import ContextApi from './context api/ContextApi';
+
 
 
 const router = createBrowserRouter([
@@ -38,6 +40,11 @@ const router = createBrowserRouter([
         path: "/form",
         element: <Form></Form>  ,
       },
+      {
+        path: "/context",
+        element: <ContextApi></ContextApi>  ,
+      },
+     
      
     ],
   },
